@@ -1,0 +1,78 @@
+.col-1
+{
+float:left; 
+margin-left:6px; 
+width:30%; 
+
+}
+
+h2
+{
+font:20px Avernir;
+color:white;
+background-color:black;
+position:sticky;
+top:0;
+left:0; 
+}
+
+table
+{
+border-collapse: collapse; 
+margin-left:6px;
+border: 3px solid grey;
+
+}
+
+th{
+text-align:center; 
+background: #a1a1a1;
+
+}
+
+th:nth-child(1)
+{
+width:5%;
+}
+th:nth-child(2)
+{
+width:5%;
+}
+
+th:nth-child(3)
+{
+width:5%;
+}
+
+th:nth-child(4)
+{
+width:5%;
+}
+
+.sign
+{
+float:right; 
+margin-right: 20px;
+}
+
+.declare, .row
+{
+margin-left: 6px;   
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
